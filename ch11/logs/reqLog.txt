@@ -1,0 +1,8 @@
+20220118	22:33:31	bf64e813-83ad-4c03-b13d-28aa781d946a	POST	undefined	/employees
+20220118	22:33:42	5cdb2c2b-0b07-4229-9e0d-05b93cd4a62f	POST	undefined	/employee
+20220118	22:33:49	ec49c0fa-6db6-4d24-a499-1a91b55ae768	POST	undefined	/
+20220118	22:34:17	5d2f811a-827a-4c24-8502-d874275cd50a	POST	undefined	/model/employees
+20220118	22:34:48	29f26e97-cbe6-4feb-a39c-cc714d2f30b6	POST	undefined	/auth
+20220118	22:48:48	94e965b4-60c2-42a5-b5b0-4493269e02c3	GET	undefined	/auth
+20220121	00:19:01	870050f5-e5c7-42f3-8c28-5846ae9e9f70	POST	undefined	/auth
+20220121	00:21:13	a5e4dc91-03bd-47e3-9d70-9555a8c24c3f	POST	undefined	/auth

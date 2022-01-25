@@ -1,0 +1,14 @@
+20220118	01:37:56	0d538c0c-e30b-4232-9331-71d6118acbe5	GET	undefined	/
+20220118	01:37:56	fc551a68-2131-400d-8507-c1731b86522c	GET	undefined	/css/style.css
+20220118	01:37:59	cd085797-8483-4e2b-8bec-a8a690eeb594	GET	undefined	/
+20220118	01:37:59	a95aaa9c-5af5-4e15-89be-c79b556d1a85	GET	undefined	/css/style.css
+20220118	01:38:16	7fd7f116-87f4-41a6-aab0-365230137f22	GET	undefined	/
+20220118	01:38:16	127fcda1-4741-41df-b020-66ec91fefbbd	GET	undefined	/css/style.css
+20220118	01:39:02	a06c4409-2d2d-4c8c-8e39-10d23b15c353	GET	undefined	/public
+20220118	01:39:02	17d5f9b5-3d93-4ff4-aa8d-5df3afc93120	GET	undefined	/css/style.css
+20220118	01:39:12	cf2d367d-c5ad-413e-a87a-a65a44bd0255	GET	undefined	/public/img
+20220118	01:39:12	a079bf46-acb6-41b8-af55-f3e603ff0ec6	GET	undefined	/public/css/style.css
+20220118	01:39:51	d577645f-13a0-4571-866d-5661c25688fb	GET	undefined	/public/img/img1
+20220118	01:39:51	f6f5446b-0f4c-4f1a-8a67-d435b60f7ace	GET	undefined	/public/img/css/style.css
+20220118	01:42:15	54bd8f07-c017-4539-990c-42b9d40a28b2	GET	undefined	/
+20220118	01:42:15	2c23398e-30c6-480c-a8c8-32afaefd97d8	GET	undefined	/css/style.css
